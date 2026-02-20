@@ -6,3 +6,9 @@ theme = "PaperMod"
 [params]
     defaultTheme = "auto"
     showCodeCopyButtons = true
+
+[author]
+    name = "Zhang"
+
+[params]
+    author = "Zhang"
