@@ -1,0 +1,14 @@
+services:
+  blog:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        HUGO_VERSION: 0.156.0
+    volumes:
+      - .:/src
+    ports:
+      - "1313:1313"
+    command: hugo server --bind 0.0.0.0 --buildDrafts
+    tty: true
+    stdin_open: true
