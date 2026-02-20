@@ -1,9 +1,7 @@
 ---
-title: "Welcome to My Digital Garden"
-date: 2026-02-20T22:30:00+09:00
+title: "Homepage"
+date: 2026-02-20T14:19:25Z
 draft: false
 ---
 
-## Homepage
-
-This is a test page.
+Welcome to my site!

@@ -7,7 +7,8 @@ theme = "PaperMod"
     defaultTheme = "auto"
     showCodeCopyButtons = true
     author = "Zhang"
-    
+    hideSummary = true
+    showFullContents = false
 [author]
     name = "Zhang"
 
